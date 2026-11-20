@@ -63,4 +63,15 @@ npm run dev
 - Add more shoe products and sizes.
 
 ## Author
-Divine Kwizera
+Divine Kwizera   
+## 📸 Screenshots
+
+### Screenshot 1
+![DIVINE'S SHOES Screenshot 1](./Screenshot%202026-11-20%20185257.png)
+
+### Screenshot 2
+![DIVINE'S SHOES Screenshot 2](./Screenshot%202026-11-20%20185341.png)
+
+### Screenshot 3
+![DIVINE'S SHOES Screenshot 3](./Screenshot%202026-11-20%20185758.png)
+
