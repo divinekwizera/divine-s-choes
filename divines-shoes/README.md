@@ -1,19 +1,66 @@
-# React + Vite
+# Divine's Shoes 👟
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About the Project
+Divine's Shoes is an online shoe shopping website designed to help customers explore different styles of shoes, view prices, and contact the store to place orders.
 
-Currently, two official plugins are available:
+The website provides a simple and user-friendly shopping experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Live Website
+https://divines-shoes.vercel.app
 
-## React Compiler
+## Features
+- Browse different shoe collections.
+- View shoe images and prices.
+- Explore different shoe categories.
+- Contact the store through WhatsApp and email.
+- Place orders easily.
+- Responsive design for different screen sizes.
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+## Technologies Used
+- React
+- Vite
+- JavaScript
+- CSS
+- Vercel (Deployment)
 
-Note: This will impact Vite dev & build performances.
-You can also try [the experimental native React Compiler support in plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md#rust-react-compiler) by using `compiler: true` in the plugin options instead of using the Babel plugin.
+## Getting Started
 
-## Expanding the ESLint configuration
+### Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Clone the repository:
+
+```bash
+git clone https://github.com/divinekwizera/divine-s-choes.git
+```
+
+Navigate to the project folder:
+
+```bash
+cd divines-shoes
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+## Challenges
+- Designing a simple and attractive shoe shopping interface.
+- Organizing shoe products and displaying their prices clearly.
+- Deploying the website and making it accessible online.
+
+## Future Improvements
+- Add a shopping cart.
+- Add online payment functionality.
+- Improve product filtering and search.
+- Add more shoe products and sizes.
+
+## Author
+Divine Kwizera
